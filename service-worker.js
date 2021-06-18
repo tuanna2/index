@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0989f5330b75a29299bf1fbbfd4aa514.js"
+  "/precache-manifest.86383720afff17e78653e6e4253000f3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "piping-screen-share"});
